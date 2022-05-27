@@ -1,0 +1,9 @@
+#div{
+	float: none;
+	background-color: rgb(255, 255, 255);
+	padding: 15px;
+	border-radius: 15px;
+}
+body{
+	background-color:lightcoral;
+}
