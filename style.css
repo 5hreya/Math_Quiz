@@ -1,0 +1,16 @@
+#div{
+	float: none;
+	background-color: rgb(255, 255, 255);
+	padding: 15px;
+	border-radius: 15px;
+}
+body{
+	background-color:lightcoral;
+}
+#Output{
+	background-color: white;
+	border-top: 10px solid pink;
+	float: none ;
+	padding: 10px;
+	border-radius: 15px;
+}
